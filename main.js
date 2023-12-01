@@ -11,6 +11,9 @@
         return count;
     }
 
+{
+
+}
     let countSpaces = function(text) {
         let matches = text.matchAll(/\s/g);
         let count = 0;
